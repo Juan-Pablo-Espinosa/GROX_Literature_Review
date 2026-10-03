@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Papers GROX/Media to watch/Media to watch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Media to watch"
             }
           }
         ]
@@ -190,6 +190,19 @@
   },
   "active": "f9b3c00e97f9d8dd",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Papers GROX/Unread papers/Here are the papers I have not read but will do.md",
+    "().md",
+    "Papers GROX/Foundations",
+    "Papers GROX/Media to watch/Media to watch.md",
+    "Papers GROX/Media to watch",
+    "Papers GROX/Authors",
+    "Welcome.md",
+    "Papers GROX/Unread papers",
+    "Papers GROX/Locomanipulation/RL papers/Unread papers",
+    "Papers GROX/Locomanipulation/RL papers/Paper notes",
+    "Papers GROX/Locomanipulation/RL papers",
+    "Papers GROX/Locomanipulation/Related work/Unread papers",
+    "Papers GROX/Locomanipulation/Related work/Paper notes",
+    "Papers GROX/Locomanipulation/Related work"
   ]
 }
