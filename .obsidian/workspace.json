@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers GROX/Media to watch/Media to watch.md",
+                "file": "Papers GROX/Authors/Authors to check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Media to watch"
+              "title": "Authors to check"
             }
           }
         ]
@@ -191,18 +191,20 @@
   "active": "f9b3c00e97f9d8dd",
   "lastOpenFiles": [
     "Papers GROX/Unread papers/Here are the papers I have not read but will do.md",
+    "Papers GROX/Authors/Authors to check.md",
+    "Papers GROX/Media to check/Media to read.md",
+    "Papers GROX/Authors/Notes in Authors",
+    "Papers GROX/Media to check/Media to watch.md",
+    "Papers GROX/Media to check/Untitled",
     "().md",
     "Papers GROX/Foundations",
-    "Papers GROX/Media to watch/Media to watch.md",
-    "Papers GROX/Media to watch",
+    "Papers GROX/Media to check",
     "Papers GROX/Authors",
     "Welcome.md",
     "Papers GROX/Unread papers",
     "Papers GROX/Locomanipulation/RL papers/Unread papers",
     "Papers GROX/Locomanipulation/RL papers/Paper notes",
     "Papers GROX/Locomanipulation/RL papers",
-    "Papers GROX/Locomanipulation/Related work/Unread papers",
-    "Papers GROX/Locomanipulation/Related work/Paper notes",
-    "Papers GROX/Locomanipulation/Related work"
+    "Papers GROX/Locomanipulation/Related work/Unread papers"
   ]
 }
