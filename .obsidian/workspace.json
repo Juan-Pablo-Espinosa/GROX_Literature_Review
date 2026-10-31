@@ -11,14 +11,12 @@
             "id": "f9b3c00e97f9d8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Papers GROX/Authors/Notes in Authors/Xue Bin Peng.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20261031141619.png"
               },
-              "icon": "lucide-file",
-              "title": "Xue Bin Peng"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261031141619"
             }
           }
         ]
@@ -188,10 +186,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9b3c00e97f9d8dd",
+  "active": "44b5f3ffbdd2f50f",
   "lastOpenFiles": [
+    "Papers GROX/Locomotion/ML papers/Paper notes/SuperMimic/SuperMimic: Scaling Humanoid Whole-Body Control.pdf",
+    "Papers GROX/Locomotion/ML papers/Paper notes/SuperMimic",
+    "Papers GROX/Locomotion/ML papers/Paper notes/PolyMorph/PolyMorph: Learning Locomotion Policy for Cross-Embodiment Adaptation",
     "Pasted image 20261030084834.png",
+    "Pasted image 20261031141549.png",
+    "Pasted image 20261031141619.png",
+    "Welcome.md",
+    "Papers GROX/Authors/Notes in Authors/Marco Hutter.md",
+    "Papers GROX/Locomotion/ML papers/Paper notes/PolyMorph",
+    "Papers GROX/Locomotion/ML papers/Paper notes/PolyMorph: Learning Locomotion Policy for Cross-Embodiment Adaptation",
     "Papers GROX/Authors/Notes in Authors/Xue Bin Peng.md",
+    "Papers GROX/Authors/Notes in Authors/Marco Hutter",
     "Papers GROX/Universities",
     "Papers GROX/Labs",
     "Papers GROX/Media to check/Media to read.md",
@@ -203,14 +211,8 @@
     "Papers GROX/Locomotion/ML papers/Paper notes/MimicAll/MimicAll: Structured Embodiment Conditioning.pdf",
     "Papers GROX/Locomotion/ML papers/Paper notes/MimicAll",
     "Papers GROX/Authors/Authors to check.md",
-    "Papers GROX/Locomotion/ML papers/Paper notes/HumanoidNDM",
-    "Papers GROX/Whole body control",
     "Papers GROX/Unread papers/Here are the papers I have not read but will do.md",
-    "Papers GROX/Authors/Notes in Authors",
     "Papers GROX/Media to check/Media to watch.md",
-    "Papers GROX/Media to check/Untitled",
-    "().md",
-    "Papers GROX/Foundations",
-    "Welcome.md"
+    "().md"
   ]
 }
