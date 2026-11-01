@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar\nMonoped with 2D Jump and Landing Control/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control.md",
+                "file": "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control./A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control,.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control"
+              "title": "A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control,"
             }
           }
         ]
@@ -188,13 +188,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "f9b3c00e97f9d8dd",
+  "active": "44b5f3ffbdd2f50f",
   "lastOpenFiles": [
+    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control./A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control - 2610.37199v1.pdf",
+    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control./A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control,.md",
     "Papers GROX/Locomotion/ML papers/Paper notes/REACH/REACH - An RL-based Hierarchical Humanoid Crawling Framework for Adaptable Confined Space Traversal.md",
-    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar\nMonoped with 2D Jump and Landing Control/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control.md",
     "Papers GROX/Authors/Notes in Authors/Koushil Sreenath.md",
-    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar\nMonoped with 2D Jump and Landing Control/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control - 2610.37199v1.pdf",
-    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar\nMonoped with 2D Jump and Landing Control",
+    "Papers GROX/Locomotion/ML papers/Paper notes/A Bi-level Co-design Framework for Lunar Monoped with 2D Jump and Landing Control.",
     "Papers GROX/Authors/Notes in Authors/Xue Bin Peng.md",
     "Papers GROX/Authors/Notes in Authors/Marco Hutter.md",
     "Papers GROX/Locomotion/ML papers/Paper notes/REACH/REACH: An RL-based Hierarchical Humanoid Crawling Framework.pdf",
