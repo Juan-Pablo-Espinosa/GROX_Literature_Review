@@ -23,7 +23,7 @@ arxiv_category: cs.RO
 arxiv_id: "2610.28480"
 url: https://arxiv.org/abs/2610.28480
 pdf: https://arxiv.org/pdf/2610.28480
-code: "No official repo yet (checked 2026-10-31)"
+code: No official repo yet (checked 2026-10-31)
 related_code: "Unofficial reproduction, not the authors' code: https://github.com/CuboiLeo/SuperMimic-Reproduced"
 project_page: https://supermimic.github.io/
 status: to-read
