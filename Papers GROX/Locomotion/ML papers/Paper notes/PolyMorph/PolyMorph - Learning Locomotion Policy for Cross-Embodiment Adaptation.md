@@ -130,7 +130,7 @@ It works and it's honest about where it breaks. One policy runs 10+ robots in si
 17. [[One Policy to Run Them All - an End-to-end Learning Approach to Multi-Embodiment Locomotion|URMA]] · Bohlinger et al. · 2024 · arXiv · [arXiv](https://arxiv.org/abs/2409.06366)
 18. [[NerveNet - Learning Structured Policy with Graph Neural Networks|NerveNet]] · Wang et al. · 2018 · ICLR 2018 · [Scholar](https://scholar.google.com/scholar?q=NerveNet+Learning+structured+policy+with+graph+neural+networks)
 19. [[GCNT - Graph-Based Transformer Policies for Morphology-Agnostic Reinforcement Learning|GCNT]] · Luo et al. · 2025 · arXiv · [arXiv](https://arxiv.org/abs/2505.15211)
-20. [[LocoFormer - Generalist Locomotion via Long-Context Adaptation|LocoFormer]] · Liu et al. · 2025 · arXiv · [arXiv](https://arxiv.org/abs/2509.23745)
+20. [[LocoFormer - Generalist Locomotion via Long-context Adaptation|LocoFormer]] · Liu et al. · 2025 · arXiv · [arXiv](https://arxiv.org/abs/2509.23745)
 21. [[Cross-robot behavior adaptation through intention alignment|Intention Alignment]] · Chen et al. · 2026 · Science Robotics · [Scholar](https://scholar.google.com/scholar?q=Cross-robot+behavior+adaptation+through+intention+alignment)
 22. [[Demonstrate once, execute on many - Kinematic intelligence for cross-robot skill transfer|Demonstrate Once Execute on Many]] · Gupta et al. · 2026 · Science Robotics · [Scholar](https://scholar.google.com/scholar?q=Demonstrate+once+execute+on+many+Kinematic+intelligence+for+cross-robot+skill+transfer)
 23. [[Per-Contact Iteration Method for Solving Contact Dynamics|RaiSim]] · Hwangbo et al. · 2018 · IEEE RA-L · [Scholar](https://scholar.google.com/scholar?q=Per-contact+iteration+method+for+solving+contact+dynamics)
@@ -138,4 +138,4 @@ It works and it's honest about where it breaks. One policy runs 10+ robots in si
 ## See also
 
 - [[Towards Embodiment Scaling Laws in Robot Locomotion|Embodiment Scaling Laws]] · ~1,000 procedurally generated embodiments distilled into one URMA policy, the scale-up PolyMorph lists as future work
-- [[H-Zero - Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer|H-Zero]] · cross-embodiment pretraining but for humanoids only, closer to our robot class
+- [[H-Zero - Cross-Humanoid Locomotion Pretraining Enables Few-Shot Novel Embodiment Transfer|H-Zero]] · cross-embodiment pretraining but for humanoids only, closer to our robot class

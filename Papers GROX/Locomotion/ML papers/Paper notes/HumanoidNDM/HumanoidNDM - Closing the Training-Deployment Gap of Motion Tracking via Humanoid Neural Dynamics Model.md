@@ -122,7 +122,7 @@ The key point is that everything is MoCap-free. They only use proprioception and
 
 1. [[Proximal Policy Optimization Algorithms|PPO]] · Schulman et al. · 2017 · arXiv · [arXiv](https://arxiv.org/abs/1707.06347)
 2. [[Soft Actor-Critic - Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor|SAC]] · Haarnoja et al. · 2018 · ICML · [Scholar](https://scholar.google.com/scholar?q=Soft+Actor-Critic+Off-Policy+Maximum+Entropy+Deep+Reinforcement+Learning+with+a+Stochastic+Actor)
-3. [[Proprioceptive Actuator Design in the MIT Cheetah - Impact Mitigation and High-Bandwidth Physical Interaction for Dynamic Legged Robots|MIT Cheetah Actuator]] · Wensing et al. · 2017 · IEEE T-RO · [DOI](https://doi.org/10.1109/TRO.2016.2640183)
+3. [[Proprioceptive actuator design in the MIT Cheetah - Impact mitigation and high-bandwidth physical interaction for dynamic legged robots|MIT Cheetah Actuator]] · Wensing et al. · 2017 · IEEE T-RO · [DOI](https://doi.org/10.1109/TRO.2016.2640183)
 4. [[Mini Cheetah - A Platform for Pushing the Limits of Dynamic Quadruped Control|Mini Cheetah]] · Katz et al. · 2019 · ICRA · [DOI](https://doi.org/10.1109/ICRA.2019.8793865)
 5. [[ExBody2 - Advanced Expressive Humanoid Whole-Body Control|ExBody2]] · Ji et al. · 2024 · arXiv · [arXiv](https://arxiv.org/abs/2412.13196)
 6. [[OmniH2O - Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning|OmniH2O]] · He et al. · 2024 · arXiv · [arXiv](https://arxiv.org/abs/2406.08858)
